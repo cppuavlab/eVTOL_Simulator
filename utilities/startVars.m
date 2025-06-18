@@ -42,7 +42,7 @@ inertia = eye(3);
 initDate = [2013 1 1 0 0 0];
 initPosLLA = [37.628738616666666 -1.223933911333333e+02 100];
 initPosNED = [0 0 -100];
-initVb = [0 0 0];
+initVb = [32.3*3.28 0 0];
 initEuler = [0 0 0];
 initAngRates = [0 0 0];
 
