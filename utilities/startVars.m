@@ -55,3 +55,11 @@ initAngRates = [0 0 0];
 endVars = who;
 initVars = setdiff(endVars,initVars);
 clear endVars;
+
+%% Dust 4 Motor Placement Locations 
+
+VM1_POSITION  = [-25;30;0]; % Motor 1 Position
+VM2_POSITION  = [-48;30;0]; % Motor 2 Position
+VM3_POSITION  = [-48;-30;0]; % Motor 3 Position
+VM4_POSITION  = [-25;-30;0]; % Motor 4 Position
+vmTiltAngle_deg = 5; % Vertical Motor Tilt (degrees)
