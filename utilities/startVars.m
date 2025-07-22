@@ -62,4 +62,6 @@ VM1_POSITION  = [-25;30;0]; % Motor 1 Position
 VM2_POSITION  = [-48;30;0]; % Motor 2 Position
 VM3_POSITION  = [-48;-30;0]; % Motor 3 Position
 VM4_POSITION  = [-25;-30;0]; % Motor 4 Position
+FM1_POSITION  = [3.5;29;0]; % Forward Motor 1 Position (X,Y,Z)
+FM2_POSITION  = [3.5;-29;0]; % Forward Motor 2 Position (X,Y,Z)
 vmTiltAngle_deg = 5; % Vertical Motor Tilt (degrees)
